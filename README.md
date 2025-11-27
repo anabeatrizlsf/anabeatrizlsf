@@ -1,12 +1,12 @@
 
 <h1 align="center">Ana Beatriz Ferreira</h1>
-<h3 align="justify">Sou formada no curso Técnico em Informática pelo SENAC Mediotec. Atualmente, estou cursando o 2º período do curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas no SENAC Pernambuco, onde participei da Residência Tecnológica promovida pelo Porto Digital. Também venho me especializando de forma independente como Desenvolvedora Web, estudando tecnologias como HTML, CSS, JavaScript, SQL e MySQL, com foco em acessibilidade, usabilidade e desenvolvimento de soluções com propósito social.</h3>
+<h3 align="justify">Sou formada no curso Técnico em Informática pelo SENAC Mediotec. Atualmente, estou cursando o 2º período do curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas na UNIFAFIRE. Também venho me especializando de forma independente como Desenvolvedora Web, estudando tecnologias como HTML, CSS, JavaScript, SQL e MySQL, com foco em acessibilidade, usabilidade e desenvolvimento de soluções com propósito social.</h3>
 <br>
 
 <h2 align="left">Um pouco sobre mim:</h2>
 <p>📍 Recife - PE</p>
 <p>👩‍💻 19 Anos</p>
-📚 Cursando 2º período em Análise e Desenvolvimento de Sistemas na [Faculdade Senac Pernambuco](https://faculdadesenacpe.edu.br/#)
+📚 Cursando 2º período em Análise e Desenvolvimento de Sistemas na [FAFIRE](https://unifafire.edu.br/)
 
 <h2 align="left">Contato:</h2>
 <div style="display: inline-block"><br/>
